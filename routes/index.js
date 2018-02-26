@@ -6,3 +6,5 @@ var players = require('./players.js')
 var bodyParser = require('body-parser')
 var jwt = require('jsonwebtoken')
 var cookieParser = require('cookie-parser')
+
+module.exports = router

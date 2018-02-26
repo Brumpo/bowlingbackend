@@ -8,5 +8,8 @@
     "jsonwebtoken": "^8.1.1",
     "morgan": "^1.9.0",
     "path": "^0.12.7"
+  },
+  "scripts":{
+    "start": "nodemon app.js"
   }
 }
